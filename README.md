@@ -1,3 +1,4 @@
 # Ansible WordPress Capstone
 
-This is the starting point for the Ansible Capstone project in the Mastering Ansible Automation course
+Deploys WordPress on a local server instance using Ansible <br>
+Connects the instance to an SQL database for WordPress to store its data using Ansible
